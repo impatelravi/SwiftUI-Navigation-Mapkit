@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Ganpat Univeristy",
+        "category": "University",
+        "city": "Mehsana",
+        "state": "Gujarat",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 23.5295,
+            "longitude": 72.4563,
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus elementum ex ipsum, eget egestas nisi interdum ac. Vivamus sed mollis tortor. Nam varius tristique lacus in consequat. Ut mattis tincidunt velit. Aliquam et ullamcorper velit, et tristique leo. Vivamus dolor arcu, imperdiet ac maximus sit amet, convallis non nisi. Vestibulum pretium velit nec molestie lacinia. Fusce vitae dignissim purus. Morbi vestibulum, velit a laoreet mollis, nunc diam vulputate nisi, a vestibulum elit nibh hendrerit purus. Nulla laoreet luctus nisi, a dignissim libero ornare et. Integer hendrerit non massa at ultricies. Morbi faucibus convallis maximus. Aliquam laoreet lorem eu magna commodo tincidunt. Phasellus quis dolor in magna tincidunt pellentesque. Sed id libero nibh. Quisque sed viverra nunc. Morbi tortor ipsum, scelerisque quis sapien vel, molestie semper nibh. Nunc ac purus quis nibh auctor eleifend. Fusce pulvinar aliquet egestas. Nunc ut maximus elit.",
+        "imageName": "GNUI"
+    },
+    {
+        "name": "Nirma Univeristy",
+        "category": "University",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 72.5441,
+            "latitude": 23.1291
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus elementum ex ipsum, eget egestas nisi interdum ac. Vivamus sed mollis tortor. Nam varius tristique lacus in consequat. Ut mattis tincidunt velit. Aliquam et ullamcorper velit, et tristique leo. Vivamus dolor arcu, imperdiet ac maximus sit amet, convallis non nisi. Vestibulum pretium velit nec molestie lacinia. Fusce vitae dignissim purus. Morbi vestibulum, velit a laoreet mollis, nunc diam vulputate nisi, a vestibulum elit nibh hendrerit purus. Nulla laoreet luctus nisi, a dignissim libero ornare et. Integer hendrerit non massa at ultricies. Morbi faucibus convallis maximus. Aliquam laoreet lorem eu magna commodo tincidunt. Phasellus quis dolor in magna tincidunt pellentesque. Sed id libero nibh. Quisque sed viverra nunc. Morbi tortor ipsum, scelerisque quis sapien vel, molestie semper nibh. Nunc ac purus quis nibh auctor eleifend. Fusce pulvinar aliquet egestas. Nunc ut maximus elit.",
+        "imageName": "Nirma"
+    },
+    {
+        "name": "Gujarat Univeristy",
+        "category": "University",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "id": 1003,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 72.5427,
+            "latitude": 23.0405
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus elementum ex ipsum, eget egestas nisi interdum ac. Vivamus sed mollis tortor. Nam varius tristique lacus in consequat. Ut mattis tincidunt velit. Aliquam et ullamcorper velit, et tristique leo. Vivamus dolor arcu, imperdiet ac maximus sit amet, convallis non nisi. Vestibulum pretium velit nec molestie lacinia. Fusce vitae dignissim purus. Morbi vestibulum, velit a laoreet mollis, nunc diam vulputate nisi, a vestibulum elit nibh hendrerit purus. Nulla laoreet luctus nisi, a dignissim libero ornare et. Integer hendrerit non massa at ultricies. Morbi faucibus convallis maximus. Aliquam laoreet lorem eu magna commodo tincidunt. Phasellus quis dolor in magna tincidunt pellentesque. Sed id libero nibh. Quisque sed viverra nunc. Morbi tortor ipsum, scelerisque quis sapien vel, molestie semper nibh. Nunc ac purus quis nibh auctor eleifend. Fusce pulvinar aliquet egestas. Nunc ut maximus elit.",
+        "imageName": "GujUni"
+    },
+    {
+        "name": "DA-IICT Univeristy",
+        "category": "University",
+        "city": "Gandhinagar",
+        "state": "Gujarat",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 72.6290,
+            "latitude": 23.1885
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus elementum ex ipsum, eget egestas nisi interdum ac. Vivamus sed mollis tortor. Nam varius tristique lacus in consequat. Ut mattis tincidunt velit. Aliquam et ullamcorper velit, et tristique leo. Vivamus dolor arcu, imperdiet ac maximus sit amet, convallis non nisi. Vestibulum pretium velit nec molestie lacinia. Fusce vitae dignissim purus. Morbi vestibulum, velit a laoreet mollis, nunc diam vulputate nisi, a vestibulum elit nibh hendrerit purus. Nulla laoreet luctus nisi, a dignissim libero ornare et. Integer hendrerit non massa at ultricies. Morbi faucibus convallis maximus. Aliquam laoreet lorem eu magna commodo tincidunt. Phasellus quis dolor in magna tincidunt pellentesque. Sed id libero nibh. Quisque sed viverra nunc. Morbi tortor ipsum, scelerisque quis sapien vel, molestie semper nibh. Nunc ac purus quis nibh auctor eleifend. Fusce pulvinar aliquet egestas. Nunc ut maximus elit.",
+        "imageName": "DA_IICT"
+    },
+    {
+        "name": "Parul Univeristy",
+        "category": "University",
+        "city": "Vadodara",
+        "state": "Gujarat",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 72.5518,
+            "latitude": 23.0387
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus elementum ex ipsum, eget egestas nisi interdum ac. Vivamus sed mollis tortor. Nam varius tristique lacus in consequat. Ut mattis tincidunt velit. Aliquam et ullamcorper velit, et tristique leo. Vivamus dolor arcu, imperdiet ac maximus sit amet, convallis non nisi. Vestibulum pretium velit nec molestie lacinia. Fusce vitae dignissim purus. Morbi vestibulum, velit a laoreet mollis, nunc diam vulputate nisi, a vestibulum elit nibh hendrerit purus. Nulla laoreet luctus nisi, a dignissim libero ornare et. Integer hendrerit non massa at ultricies. Morbi faucibus convallis maximus. Aliquam laoreet lorem eu magna commodo tincidunt. Phasellus quis dolor in magna tincidunt pellentesque. Sed id libero nibh. Quisque sed viverra nunc. Morbi tortor ipsum, scelerisque quis sapien vel, molestie semper nibh. Nunc ac purus quis nibh auctor eleifend. Fusce pulvinar aliquet egestas. Nunc ut maximus elit.",
+        "imageName": "Parul"
+    },
+    {
+        "name": "IIT",
+        "category": "University",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "id": 1006,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 77.1639,
+            "latitude": 28.5653
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus elementum ex ipsum, eget egestas nisi interdum ac. Vivamus sed mollis tortor. Nam varius tristique lacus in consequat. Ut mattis tincidunt velit. Aliquam et ullamcorper velit, et tristique leo. Vivamus dolor arcu, imperdiet ac maximus sit amet, convallis non nisi. Vestibulum pretium velit nec molestie lacinia. Fusce vitae dignissim purus. Morbi vestibulum, velit a laoreet mollis, nunc diam vulputate nisi, a vestibulum elit nibh hendrerit purus. Nulla laoreet luctus nisi, a dignissim libero ornare et. Integer hendrerit non massa at ultricies. Morbi faucibus convallis maximus. Aliquam laoreet lorem eu magna commodo tincidunt. Phasellus quis dolor in magna tincidunt pellentesque. Sed id libero nibh. Quisque sed viverra nunc. Morbi tortor ipsum, scelerisque quis sapien vel, molestie semper nibh. Nunc ac purus quis nibh auctor eleifend. Fusce pulvinar aliquet egestas. Nunc ut maximus elit.",
+        "imageName": "IIT"
+    },
+    {
+        "name": "NIT",
+        "category": "University",
+        "city": "Kurukshetra",
+        "state": "Haryana",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 76.8173,
+            "latitude": 29.9451
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus elementum ex ipsum, eget egestas nisi interdum ac. Vivamus sed mollis tortor. Nam varius tristique lacus in consequat. Ut mattis tincidunt velit. Aliquam et ullamcorper velit, et tristique leo. Vivamus dolor arcu, imperdiet ac maximus sit amet, convallis non nisi. Vestibulum pretium velit nec molestie lacinia. Fusce vitae dignissim purus. Morbi vestibulum, velit a laoreet mollis, nunc diam vulputate nisi, a vestibulum elit nibh hendrerit purus. Nulla laoreet luctus nisi, a dignissim libero ornare et. Integer hendrerit non massa at ultricies. Morbi faucibus convallis maximus. Aliquam laoreet lorem eu magna commodo tincidunt. Phasellus quis dolor in magna tincidunt pellentesque. Sed id libero nibh. Quisque sed viverra nunc. Morbi tortor ipsum, scelerisque quis sapien vel, molestie semper nibh. Nunc ac purus quis nibh auctor eleifend. Fusce pulvinar aliquet egestas. Nunc ut maximus elit.",
+        "imageName": "NIT"
+    },
+    {
+        "name": "Monark Univeristy",
+        "category": "University",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 72.7574,
+            "latitude": 23.0843
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus elementum ex ipsum, eget egestas nisi interdum ac. Vivamus sed mollis tortor. Nam varius tristique lacus in consequat. Ut mattis tincidunt velit. Aliquam et ullamcorper velit, et tristique leo. Vivamus dolor arcu, imperdiet ac maximus sit amet, convallis non nisi. Vestibulum pretium velit nec molestie lacinia. Fusce vitae dignissim purus. Morbi vestibulum, velit a laoreet mollis, nunc diam vulputate nisi, a vestibulum elit nibh hendrerit purus. Nulla laoreet luctus nisi, a dignissim libero ornare et. Integer hendrerit non massa at ultricies. Morbi faucibus convallis maximus. Aliquam laoreet lorem eu magna commodo tincidunt. Phasellus quis dolor in magna tincidunt pellentesque. Sed id libero nibh. Quisque sed viverra nunc. Morbi tortor ipsum, scelerisque quis sapien vel, molestie semper nibh. Nunc ac purus quis nibh auctor eleifend. Fusce pulvinar aliquet egestas. Nunc ut maximus elit.",
+        "imageName": "Monark"
+    },
+    {
+        "name": "PDPU",
+        "category": "University",
+        "city": "Gandhinagar",
+        "state": "Gujarat",
+        "id": 1009,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 72.6646,
+            "latitude": 23.1558
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus elementum ex ipsum, eget egestas nisi interdum ac. Vivamus sed mollis tortor. Nam varius tristique lacus in consequat. Ut mattis tincidunt velit. Aliquam et ullamcorper velit, et tristique leo. Vivamus dolor arcu, imperdiet ac maximus sit amet, convallis non nisi. Vestibulum pretium velit nec molestie lacinia. Fusce vitae dignissim purus. Morbi vestibulum, velit a laoreet mollis, nunc diam vulputate nisi, a vestibulum elit nibh hendrerit purus. Nulla laoreet luctus nisi, a dignissim libero ornare et. Integer hendrerit non massa at ultricies. Morbi faucibus convallis maximus. Aliquam laoreet lorem eu magna commodo tincidunt. Phasellus quis dolor in magna tincidunt pellentesque. Sed id libero nibh. Quisque sed viverra nunc. Morbi tortor ipsum, scelerisque quis sapien vel, molestie semper nibh. Nunc ac purus quis nibh auctor eleifend. Fusce pulvinar aliquet egestas. Nunc ut maximus elit.",
+        "imageName": "PDPU"
+    },
+    {
+        "name": "Indus Univeristy",
+        "category": "University",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "id": 1010,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 72.4402,
+            "latitude": 23.0652
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus elementum ex ipsum, eget egestas nisi interdum ac. Vivamus sed mollis tortor. Nam varius tristique lacus in consequat. Ut mattis tincidunt velit. Aliquam et ullamcorper velit, et tristique leo. Vivamus dolor arcu, imperdiet ac maximus sit amet, convallis non nisi. Vestibulum pretium velit nec molestie lacinia. Fusce vitae dignissim purus. Morbi vestibulum, velit a laoreet mollis, nunc diam vulputate nisi, a vestibulum elit nibh hendrerit purus. Nulla laoreet luctus nisi, a dignissim libero ornare et. Integer hendrerit non massa at ultricies. Morbi faucibus convallis maximus. Aliquam laoreet lorem eu magna commodo tincidunt. Phasellus quis dolor in magna tincidunt pellentesque. Sed id libero nibh. Quisque sed viverra nunc. Morbi tortor ipsum, scelerisque quis sapien vel, molestie semper nibh. Nunc ac purus quis nibh auctor eleifend. Fusce pulvinar aliquet egestas. Nunc ut maximus elit.",
+        "imageName": "Indus"
+    }
+]
